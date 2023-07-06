@@ -1,3 +1,4 @@
+// Description: Graph class and Node class
 class Node {
   constructor(value, adjacent = new Set()) {
     this.value = value;
